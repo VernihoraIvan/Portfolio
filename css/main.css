@@ -83,11 +83,11 @@ body {
 }
 
 .ghlink {
-  color: blueviolet;
+  color: blue;
 }
 
 .ghlink:hover {
-  color: blue;
+  color: blueviolet;
 }
 .header-arrow {
   width: 48px;
