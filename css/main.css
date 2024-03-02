@@ -156,6 +156,7 @@ body {
   margin-bottom: 4px;
   width: 500px;
   height: 250px;
+  object-fit: contain;
 }
 
 .card-title {
