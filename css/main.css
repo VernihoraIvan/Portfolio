@@ -82,6 +82,15 @@ body {
   color: #ffffff;
 }
 
+.cvlink {
+  color: fuchsia;
+  margin-top: 10px;
+}
+
+.cvlink:hover {
+  color: blueviolet;
+}
+
 .ghlink {
   color: fuchsia;
   margin-top: 50px;
