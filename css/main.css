@@ -143,9 +143,9 @@ body {
     height: 62px;
   } */
 
-  /* .card-tools {
-    height: 42px;
-  } */
+  .card-tools {
+    font-weight: 600;
+  }
 }
 
 .card:hover {
